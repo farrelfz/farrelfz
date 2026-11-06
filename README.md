@@ -34,11 +34,11 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Science Explorer Portfolio](https://github.com/farrelfz/science-explorer-portfolio)** | Interactive portfolio blending scientific exploration with modern web design. | HTML/CSS/JS |
+| **[Science Explorer Portfolio](https://farrelfz.github.io)** | Interactive portfolio blending scientific exploration with modern web design. | Next.js/TypeScript |
 | **[Kok Bisa Physics Analytics](https://github.com/farrelfz/kok-bisa-physics-discourse-analytics)** | Discourse analytics platform examining science communication and physics concepts. | Python, Data Analysis |
 | **[Physion](https://github.com/farrelfz/Physion)** | Physics-focused simulation and interactive calculation suite. | Python / Web |
 | **[Conceptra](https://github.com/farrelfz/conceptra)** | Concept mapping and structured learning platform. | Full-Stack |
-| **[Insurance & E-commerce Apps](https://github.com/farrelfz/insurance-app)** | Full-stack applications and analytical dashboards built during PPKD Data Science training. | Python, Streamlit, SQL |
+| **[PPKD Data Science Monorepo](https://github.com/farrelfz/ppkd-datascience)** | Data science projects from PPKD training: HR attrition, insurance claim, and subscription prediction. | Python, Streamlit, ML |
 
 ---
 
