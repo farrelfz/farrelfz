@@ -38,7 +38,7 @@
 | **[Kok Bisa Physics Analytics](https://github.com/farrelfz/kok-bisa-physics-discourse-analytics)** | Discourse analytics platform examining science communication and physics concepts. | Python, Data Analysis |
 | **[Physion](https://github.com/farrelfz/Physion)** | Physics-focused simulation and interactive calculation suite. | Python / Web |
 | **[Conceptra](https://github.com/farrelfz/conceptra)** | Concept mapping and structured learning platform. | Full-Stack |
-| **[PPKD Data Science Monorepo](https://github.com/farrelfz/ppkd-datascience)** | Data science projects from PPKD training: HR attrition, insurance claim, and subscription prediction. | Python, Streamlit, ML |
+| **[Data Science Portfolio](https://github.com/farrelfz/data-science-farrelfz)** | End-to-end data science projects: employee attrition prediction (ANN), insurance cost estimation, and subscription prediction. | Python, TensorFlow, Streamlit |
 
 ---
 
